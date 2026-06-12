@@ -77,9 +77,10 @@ For example, Winter Rye (*Secale cereale*).
 
 * **Substrate**: Peat or Coco Coir and vermiculite (3:1), basalt rock dust (5%), and pre-charged biochar (5%, soaked in vermicompost tea)
 * **Amendments**: Mix 5 grams of Alfalfa meal and 5 grams of Kelp meal into the substrate
-* **Tray**: Standard 1020 microgreen cultivation flats, filled to 1.25" of substrate
+* **Tray**: Standard 1020 microgreen cultivation flat, filled to 1.25" of substrate
 * **Seed**: Approximately 20 untreated seeds per square inch (or around 120 grams) of Winter Rye
-* **Application**: Mix brewed vermicompost tea and bacterial and fungal starter cultures into an RO water solution, and saturate
+* **Solution**: 1 part brewed vermicompost tea, 3 parts RO water, plus bacterial and fungal starter cultures according to label
+* **Application**: Add approximately 2L of solution, or until saturation
 
 ### Production
 
