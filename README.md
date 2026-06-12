@@ -56,7 +56,7 @@ Gill, S. S., Gill, R., Trivedi, D. K., Anjum, N. A., Sharma, K. K., Ansari, M. W
 
 ### Sourcing
 
-* ***Vermicompost tea***: Red Wriggler castings, trace micronized basalt rock dust catalyst, light molasses, actively aerated.
+* ***Vermicompost tea***: Red Wriggler castings, trace micronized basalt rock dust, light molasses, actively aerated.
 * ***Pseudomonas fluorescens***: Commercial agriculture suppliers or hydroponic stores.
 * ***Azospirillum brasilense***: Hydroponic, organic, and commercial garden supply stores.
 * ***Rhizophagus irregularis***: Commercial Agriculture Suppliers & Wholesalers (such as Premier Tech AGTIV REACH via Nutrien Ag)
@@ -75,10 +75,10 @@ For example, Winter Rye (*Secale cereale*).
 
 ### Preparation
 
-* **Substrate**: Peat or Coco Coir, vermiculite, and basalt rock dust (5%)
-* **Nutrient**: Mix 5 grams of Alfalfa meal into the substrate
+* **Substrate**: Peat or Coco Coir and vermiculite (3:1), basalt rock dust (5%), and pre-charged biochar (5%, soaked in vermicompost tea)
+* **Amendments**: Mix 5 grams of Alfalfa meal and 5 grams of Kelp meal into the substrate
 * **Tray**: Standard 1020 microgreen cultivation flats, filled to 1.25" of substrate
-* **Seed**: Approximately 20 per square inch (or around 120 grams) of Winter Rye
+* **Seed**: Approximately 20 untreated seeds per square inch (or around 120 grams) of Winter Rye
 * **Application**: Mix brewed vermicompost tea and bacterial and fungal starter cultures into an RO water solution, and saturate
 
 ### Production
