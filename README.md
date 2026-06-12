@@ -26,7 +26,7 @@ A rhizoplane-colonizing bacterium whose primary benefit is the secretion of natu
 
 > Fukami, J., Cerezini, P., & Hungria, M. (2018). [Azospirillum: benefits that go far beyond biological nitrogen fixation](https://amb-express.springeropen.com/articles/10.1186/s13568-018-0608-1). *AMB Express*, 8(1), 73.
 
-It also fixes atmospheric nitrogen into a plant-absorbable form, though under field conditions this is generally a secondary contribution to the hormonal effect:
+It also fixes small amounts of atmospheric nitrogen into a plant-absorbable form:
 
 > Steenhoudt, O., & Vanderleyden, J. (2000). [Azospirillum, a free-living nitrogen-fixing bacterium closely associated with grasses: genetic, biochemical and ecological aspects](https://academic.oup.com/femsre/article/24/4/487/472620). *FEMS Microbiology Reviews*, 24(4), 487–506.
 
